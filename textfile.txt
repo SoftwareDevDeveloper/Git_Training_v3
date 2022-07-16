@@ -1,2 +1,2 @@
 This is text file sample download
-And this is another commit info added
+This is another commit info added
